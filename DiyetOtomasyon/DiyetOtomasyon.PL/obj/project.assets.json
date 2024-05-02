@@ -4499,11 +4499,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\yusuf\\Bilgeadam\\Boost\\Diyet-Otomasyonu\\DiyetOtomasyon\\DiyetOtomasyon.PL\\DiyetOtomasyon.PL.csproj",
+      "projectUniqueName": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\yusuf\\Bilgeadam\\Boost\\Diyet-Otomasyonu1\\DiyetOtomasyon\\DiyetOtomasyon.PL\\DiyetOtomasyon.PL.csproj",
       "projectName": "DiyetOtomasyon.PL",
-      "projectPath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\yusuf\\Bilgeadam\\Boost\\Diyet-Otomasyonu\\DiyetOtomasyon\\DiyetOtomasyon.PL\\DiyetOtomasyon.PL.csproj",
+      "projectPath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\yusuf\\Bilgeadam\\Boost\\Diyet-Otomasyonu1\\DiyetOtomasyon\\DiyetOtomasyon.PL\\DiyetOtomasyon.PL.csproj",
       "packagesPath": "C:\\Users\\yusuf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\yusuf\\Bilgeadam\\Boost\\Diyet-Otomasyonu\\DiyetOtomasyon\\DiyetOtomasyon.PL\\obj\\",
+      "outputPath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\yusuf\\Bilgeadam\\Boost\\Diyet-Otomasyonu1\\DiyetOtomasyon\\DiyetOtomasyon.PL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yusuf\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4520,8 +4520,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\yusuf\\Bilgeadam\\Boost\\Diyet-Otomasyonu\\DiyetOtomasyon\\DiyetOtomasyon.BL\\DiyetOtomasyon.BL.csproj": {
-              "projectPath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\yusuf\\Bilgeadam\\Boost\\Diyet-Otomasyonu\\DiyetOtomasyon\\DiyetOtomasyon.BL\\DiyetOtomasyon.BL.csproj"
+            "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\yusuf\\Bilgeadam\\Boost\\Diyet-Otomasyonu1\\DiyetOtomasyon\\DiyetOtomasyon.BL\\DiyetOtomasyon.BL.csproj": {
+              "projectPath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\yusuf\\Bilgeadam\\Boost\\Diyet-Otomasyonu1\\DiyetOtomasyon\\DiyetOtomasyon.BL\\DiyetOtomasyon.BL.csproj"
             }
           }
         }
