@@ -1,0 +1,15 @@
+C:\Users\yusuf\OneDrive\Masaüstü\yusuf\Bilgeadam\Boost\Diyet-Otomasyonu\DiyetOtomasyon\DiyetOtomasyon.DAL\bin\Debug\net8.0\DiyetOtomasyon.DAL.deps.json
+C:\Users\yusuf\OneDrive\Masaüstü\yusuf\Bilgeadam\Boost\Diyet-Otomasyonu\DiyetOtomasyon\DiyetOtomasyon.DAL\bin\Debug\net8.0\DiyetOtomasyon.DAL.runtimeconfig.json
+C:\Users\yusuf\OneDrive\Masaüstü\yusuf\Bilgeadam\Boost\Diyet-Otomasyonu\DiyetOtomasyon\DiyetOtomasyon.DAL\bin\Debug\net8.0\DiyetOtomasyon.DAL.dll
+C:\Users\yusuf\OneDrive\Masaüstü\yusuf\Bilgeadam\Boost\Diyet-Otomasyonu\DiyetOtomasyon\DiyetOtomasyon.DAL\bin\Debug\net8.0\DiyetOtomasyon.DAL.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\yusuf\Bilgeadam\Boost\Diyet-Otomasyonu\DiyetOtomasyon\DiyetOtomasyon.DAL\obj\Debug\net8.0\DiyetOtomasyon.DAL.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\yusuf\Bilgeadam\Boost\Diyet-Otomasyonu\DiyetOtomasyon\DiyetOtomasyon.DAL\obj\Debug\net8.0\DiyetOtomasyon.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Masaüstü\yusuf\Bilgeadam\Boost\Diyet-Otomasyonu\DiyetOtomasyon\DiyetOtomasyon.DAL\obj\Debug\net8.0\DiyetOtomasyon.DAL.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\yusuf\Bilgeadam\Boost\Diyet-Otomasyonu\DiyetOtomasyon\DiyetOtomasyon.DAL\obj\Debug\net8.0\DiyetOtomasyon.DAL.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Masaüstü\yusuf\Bilgeadam\Boost\Diyet-Otomasyonu\DiyetOtomasyon\DiyetOtomasyon.DAL\obj\Debug\net8.0\DiyetOtomasyon.DAL.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\yusuf\Bilgeadam\Boost\Diyet-Otomasyonu\DiyetOtomasyon\DiyetOtomasyon.DAL\obj\Debug\net8.0\DiyetOtomasyon.DAL.sourcelink.json
+C:\Users\yusuf\OneDrive\Masaüstü\yusuf\Bilgeadam\Boost\Diyet-Otomasyonu\DiyetOtomasyon\DiyetOtomasyon.DAL\obj\Debug\net8.0\DiyetOtomasyon.DAL.dll
+C:\Users\yusuf\OneDrive\Masaüstü\yusuf\Bilgeadam\Boost\Diyet-Otomasyonu\DiyetOtomasyon\DiyetOtomasyon.DAL\obj\Debug\net8.0\refint\DiyetOtomasyon.DAL.dll
+C:\Users\yusuf\OneDrive\Masaüstü\yusuf\Bilgeadam\Boost\Diyet-Otomasyonu\DiyetOtomasyon\DiyetOtomasyon.DAL\obj\Debug\net8.0\DiyetOtomasyon.DAL.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\yusuf\Bilgeadam\Boost\Diyet-Otomasyonu\DiyetOtomasyon\DiyetOtomasyon.DAL\obj\Debug\net8.0\DiyetOtomasyon.DAL.genruntimeconfig.cache
+C:\Users\yusuf\OneDrive\Masaüstü\yusuf\Bilgeadam\Boost\Diyet-Otomasyonu\DiyetOtomasyon\DiyetOtomasyon.DAL\obj\Debug\net8.0\ref\DiyetOtomasyon.DAL.dll
