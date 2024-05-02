@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\yusuf\\Bilgeadam\\Boost\\Diyet-Otomasyonu1\\DiyetOtomasyon\\",
+  "WorkspaceRootPath": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\yusuf\\Bilgeadam\\Boost\\Diyet-Otomasyonu\\DiyetOtomasyon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D96786CC-6ED0-446D-A1FA-6F636758C28C}|DiyetOtomasyon.DAL\\DiyetOtomasyon.DAL.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\yusuf\\bilgeadam\\boost\\diyet-otomasyonu1\\diyetotomasyon\\diyetotomasyon.dal\\context\\diyetdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D96786CC-6ED0-446D-A1FA-6F636758C28C}|DiyetOtomasyon.DAL\\DiyetOtomasyon.DAL.csproj|solutionrelative:diyetotomasyon.dal\\context\\diyetdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{313B49B1-DD00-4672-ADCC-471EB3EA4690}|DiyetOtomasyon.PL\\DiyetOtomasyon.PL.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\yusuf\\bilgeadam\\boost\\diyet-otomasyonu\\diyetotomasyon\\diyetotomasyon.pl\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{313B49B1-DD00-4672-ADCC-471EB3EA4690}|DiyetOtomasyon.PL\\DiyetOtomasyon.PL.csproj|solutionrelative:diyetotomasyon.pl\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{313B49B1-DD00-4672-ADCC-471EB3EA4690}|DiyetOtomasyon.PL\\DiyetOtomasyon.PL.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\yusuf\\bilgeadam\\boost\\diyet-otomasyonu1\\diyetotomasyon\\diyetotomasyon.pl\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{313B49B1-DD00-4672-ADCC-471EB3EA4690}|DiyetOtomasyon.PL\\DiyetOtomasyon.PL.csproj|solutionrelative:diyetotomasyon.pl\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{D96786CC-6ED0-446D-A1FA-6F636758C28C}|DiyetOtomasyon.DAL\\DiyetOtomasyon.DAL.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\yusuf\\bilgeadam\\boost\\diyet-otomasyonu\\diyetotomasyon\\diyetotomasyon.dal\\context\\diyetdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96786CC-6ED0-446D-A1FA-6F636758C28C}|DiyetOtomasyon.DAL\\DiyetOtomasyon.DAL.csproj|solutionrelative:diyetotomasyon.dal\\context\\diyetdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,11 +30,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\yusuf\\Bilgeadam\\Boost\\Diyet-Otomasyonu1\\DiyetOtomasyon\\DiyetOtomasyon.PL\\ReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\yusuf\\Bilgeadam\\Boost\\Diyet-Otomasyonu\\DiyetOtomasyon\\DiyetOtomasyon.PL\\ReadMe.txt",
               "RelativeDocumentMoniker": "DiyetOtomasyon.PL\\ReadMe.txt",
-              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\yusuf\\Bilgeadam\\Boost\\Diyet-Otomasyonu1\\DiyetOtomasyon\\DiyetOtomasyon.PL\\ReadMe.txt",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\yusuf\\Bilgeadam\\Boost\\Diyet-Otomasyonu\\DiyetOtomasyon\\DiyetOtomasyon.PL\\ReadMe.txt",
               "RelativeToolTip": "DiyetOtomasyon.PL\\ReadMe.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -43,11 +43,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DiyetDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\yusuf\\Bilgeadam\\Boost\\Diyet-Otomasyonu1\\DiyetOtomasyon\\DiyetOtomasyon.DAL\\Context\\DiyetDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\yusuf\\Bilgeadam\\Boost\\Diyet-Otomasyonu\\DiyetOtomasyon\\DiyetOtomasyon.DAL\\Context\\DiyetDbContext.cs",
               "RelativeDocumentMoniker": "DiyetOtomasyon.DAL\\Context\\DiyetDbContext.cs",
-              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\yusuf\\Bilgeadam\\Boost\\Diyet-Otomasyonu1\\DiyetOtomasyon\\DiyetOtomasyon.DAL\\Context\\DiyetDbContext.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\yusuf\\Bilgeadam\\Boost\\Diyet-Otomasyonu\\DiyetOtomasyon\\DiyetOtomasyon.DAL\\Context\\DiyetDbContext.cs",
               "RelativeToolTip": "DiyetOtomasyon.DAL\\Context\\DiyetDbContext.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

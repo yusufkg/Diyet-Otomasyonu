@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\yusuf\\Bilgeadam\\Boost\\Diyet-Otomasyonu1\\DiyetOtomasyon\\DiyetOtomasyon.DAL\\DiyetOtomasyon.DAL.csproj": {}
+    "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\yusuf\\Bilgeadam\\Boost\\Diyet-Otomasyonu\\DiyetOtomasyon\\DiyetOtomasyon.DAL\\DiyetOtomasyon.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\yusuf\\Bilgeadam\\Boost\\Diyet-Otomasyonu1\\DiyetOtomasyon\\DiyetOtomasyon.DAL\\DiyetOtomasyon.DAL.csproj": {
+    "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\yusuf\\Bilgeadam\\Boost\\Diyet-Otomasyonu\\DiyetOtomasyon\\DiyetOtomasyon.DAL\\DiyetOtomasyon.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\yusuf\\Bilgeadam\\Boost\\Diyet-Otomasyonu1\\DiyetOtomasyon\\DiyetOtomasyon.DAL\\DiyetOtomasyon.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\yusuf\\Bilgeadam\\Boost\\Diyet-Otomasyonu\\DiyetOtomasyon\\DiyetOtomasyon.DAL\\DiyetOtomasyon.DAL.csproj",
         "projectName": "DiyetOtomasyon.DAL",
-        "projectPath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\yusuf\\Bilgeadam\\Boost\\Diyet-Otomasyonu1\\DiyetOtomasyon\\DiyetOtomasyon.DAL\\DiyetOtomasyon.DAL.csproj",
+        "projectPath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\yusuf\\Bilgeadam\\Boost\\Diyet-Otomasyonu\\DiyetOtomasyon\\DiyetOtomasyon.DAL\\DiyetOtomasyon.DAL.csproj",
         "packagesPath": "C:\\Users\\yusuf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\yusuf\\Bilgeadam\\Boost\\Diyet-Otomasyonu1\\DiyetOtomasyon\\DiyetOtomasyon.DAL\\obj\\",
+        "outputPath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\yusuf\\Bilgeadam\\Boost\\Diyet-Otomasyonu\\DiyetOtomasyon\\DiyetOtomasyon.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yusuf\\AppData\\Roaming\\NuGet\\NuGet.Config",
