@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{313B49B1-DD00-4672-ADCC-471EB3EA4690}|DiyetOtomasyon.PL\\DiyetOtomasyon.PL.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\yusuf\\bilgeadam\\boost\\diyet-otomasyonu\\diyetotomasyon\\diyetotomasyon.pl\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{313B49B1-DD00-4672-ADCC-471EB3EA4690}|DiyetOtomasyon.PL\\DiyetOtomasyon.PL.csproj|solutionrelative:diyetotomasyon.pl\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D96786CC-6ED0-446D-A1FA-6F636758C28C}|DiyetOtomasyon.DAL\\DiyetOtomasyon.DAL.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\yusuf\\bilgeadam\\boost\\diyet-otomasyonu\\diyetotomasyon\\diyetotomasyon.dal\\context\\diyetdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D96786CC-6ED0-446D-A1FA-6F636758C28C}|DiyetOtomasyon.DAL\\DiyetOtomasyon.DAL.csproj|solutionrelative:diyetotomasyon.dal\\context\\diyetdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,20 +34,7 @@
               "RelativeToolTip": "DiyetOtomasyon.PL\\ReadMe.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-05-02T15:47:35.786Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DiyetDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\yusuf\\Bilgeadam\\Boost\\Diyet-Otomasyonu\\DiyetOtomasyon\\DiyetOtomasyon.DAL\\Context\\DiyetDbContext.cs",
-              "RelativeDocumentMoniker": "DiyetOtomasyon.DAL\\Context\\DiyetDbContext.cs",
-              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\yusuf\\Bilgeadam\\Boost\\Diyet-Otomasyonu\\DiyetOtomasyon\\DiyetOtomasyon.DAL\\Context\\DiyetDbContext.cs",
-              "RelativeToolTip": "DiyetOtomasyon.DAL\\Context\\DiyetDbContext.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T15:42:16.844Z",
+              "WhenOpened": "2024-05-02T17:26:09.044Z",
               "EditorCaption": ""
             }
           ]
