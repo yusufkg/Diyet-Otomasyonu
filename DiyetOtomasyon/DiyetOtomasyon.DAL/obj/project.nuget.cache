@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k7bmP/b+KL7x4OpEI9mgC0wtTVk+4BWn2XqZsAaMzrkgLl+l9aRFjMI1pVaQ5q4krVbfXQQ7fPRrOF4t9ra3XQ==",
+  "dgSpecHash": "0P9cqbRL1+8UJMrXQgmg86XXSKaS7P5+XxNb1dq0ocCLF5onFKItHSnGT/Co25vEWpioTvaDU1opfQyDSwR+FA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\yusuf\\Bilgeadam\\Boost\\Diyet-Otomasyonu\\DiyetOtomasyon\\DiyetOtomasyon.DAL\\DiyetOtomasyon.DAL.csproj",
+  "projectFilePath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\yusuf\\Bilgeadam\\Boost\\Diyet -Otomasyonu\\DiyetOtomasyon\\DiyetOtomasyon.DAL\\DiyetOtomasyon.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yusuf\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\yusuf\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
