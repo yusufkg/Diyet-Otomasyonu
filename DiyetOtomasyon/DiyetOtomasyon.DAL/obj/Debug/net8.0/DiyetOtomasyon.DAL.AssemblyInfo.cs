@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DiyetOtomasyon.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9340e31036f999488a0d75ea8051f52787a248dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6d7a79f3488bff3e96ed5bbf7f6358ef977f08c")]
 [assembly: System.Reflection.AssemblyProductAttribute("DiyetOtomasyon.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DiyetOtomasyon.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
