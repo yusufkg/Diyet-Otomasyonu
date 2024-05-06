@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DiyetOtomasyon.PL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9340e31036f999488a0d75ea8051f52787a248dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a848dbede4eda80d49901f6c3718e68b8b25c3cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("DiyetOtomasyon.PL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DiyetOtomasyon.PL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
