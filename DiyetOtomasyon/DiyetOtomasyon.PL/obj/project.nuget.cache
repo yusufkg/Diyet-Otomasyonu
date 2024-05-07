@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wpvaNmtzo8jk6SQO3HeVuDWJ++oQto2tsgcTxOwPiTYinQq09aP8hke+VoFNUcgKq44fdBW3uS5LAUxXPyPMsw==",
+  "dgSpecHash": "memnFrVGl+VSbKWiEUy2bKE/UHRKI66f3H5ihyA2qI+f3C3VqKssA+rzbf/IdNymBqoZwy8TiNHVoSvRL3gIWg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yusuf\\OneDrive\\Masaüstü\\yusuf\\Bilgeadam\\Boost\\Diyet -Otomasyonu\\DiyetOtomasyon\\DiyetOtomasyon.PL\\DiyetOtomasyon.PL.csproj",
+  "projectFilePath": "D:\\projects\\Diyet-Otomasyonu\\DiyetOtomasyon\\DiyetOtomasyon.PL\\DiyetOtomasyon.PL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yusuf\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\yusuf\\.nuget\\packages\\automapper.collection\\10.0.0\\automapper.collection.10.0.0.nupkg.sha512",

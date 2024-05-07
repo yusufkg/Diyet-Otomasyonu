@@ -10,6 +10,7 @@ namespace DiyetOtomasyon.DAL.Entities
 {
     public class PersonMeal : Entity
     {
+
         public  int PersonId { get; set; }
         public virtual Person Person { get; set; }
         public  int MealId { get; set; }
